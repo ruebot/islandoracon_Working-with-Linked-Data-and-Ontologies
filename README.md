@@ -22,7 +22,7 @@ Topics to cover:
 - PCDM
 
 Time | Topic | Materials
------|--------|--------|-----------------
+-----|--------|--------
 **1-1:10 PM** | Welcome, Housekeeping, CoC, etc. (10 minutes)| n/a
 **?? PM** | RDF Introduction: What is RDF, What is RDFs Statement, URIs (Resources vs Literals/Data values), Serializations (Turtle, RDF/XML), exercise? |
 **?? PM** | Linked Data: Vocabularies, Using external vocbaularies, Prefixes, Lookups (LOV), Dereference / exploring further information, exercise? | [Bash_Exercises.md](Bash_Exercises.md)
